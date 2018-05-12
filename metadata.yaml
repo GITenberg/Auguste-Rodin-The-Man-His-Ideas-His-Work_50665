@@ -1,9 +1,13 @@
 _repo: Auguste-Rodin-The-Man-His-Ideas-His-Work_50665
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Black, Clementina
     gutenberg_agent_id: '46028'
     url: http://www.gutenberg.org/2009/agents/46028
+covers:
+- cover_type: archival
+  image_path: 50665-h/images/cover.jpg
 creator:
   author:
     agent_name: Mauclair, Camille
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '5351'
     url: http://www.gutenberg.org/2009/agents/5351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50665#Auguste-Rodin-The-Man-His-Ideas-His-Work
 gutenberg_issued: '2015-12-11'
 gutenberg_type: Text
 identifiers:
